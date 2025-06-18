@@ -1,0 +1,1 @@
+https://github.gallery.vsassets.io/_apis/public/gallery/publisher/GitHub/extension/copilot/1.335.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?redirect=true
